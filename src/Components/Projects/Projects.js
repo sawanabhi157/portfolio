@@ -103,7 +103,7 @@ export const Projects = () => {
                 target="_blank"
                 rel="noreferrer"
                 style={{ color: "white" }}
-                href="https://github.com/sawanabhi157/GO-Redis--URL-Shortener"
+                href="https://github.com/sawanabhi157/URL-Shortener-Redis-GO"
               >
                 GitHub
               </a>
