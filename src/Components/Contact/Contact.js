@@ -2,8 +2,8 @@ import { Row, Col } from "antd";
 import {
   LinkedinFilled,
   GithubFilled,
-  InstagramOutlined,
   MailFilled,
+  TwitterOutlined 
 } from "@ant-design/icons";
 import Typed from "react-typed";
 import "./Contact.css";
@@ -110,15 +110,15 @@ export const Contact = () => {
               data-aos="fade"
               data-aos-delay="1000"
               data-aos-once
-              className="contact-container instagram-wrapper"
+              className="contact-container twitter-wrapper"
             >
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.instagram.com/sawanabhi157/"
+                href="https://twitter.com/sawanabhi157"
               >
-                <InstagramOutlined
-                  className="instagram-image"
+                <TwitterOutlined 
+                  className="twitter-image"
                   style={{ color: "white" }}
                 />
               </a>
