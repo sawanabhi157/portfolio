@@ -1,12 +1,14 @@
 export const ExperienceContent = [
   {
-    company: "Stealth Startup",
-    link: "https://www.linkedin.com/company/stealth-startup-51/",
+    company: "Zluri",
+    link: "https://www.linkedin.com/company/zluri/",
     role: "Frontend Engineer Intern",
     brief: [
-      "Worked at Stealth Mode Startup as a Frontend Engineer intern",
-      "Fixed the issues and developed a 5 genric components for micro-frontend architecture application using React.Js",
+      "Worked on a React.js micro-frontend architecture application and fixed more than 9 issues related to optimization and responsiveness",
+      "Created 30+ micro generic components for an npm package. These components are used as an internal library within the organization",
       "Created a datbase dashboard UI for application",
+      "Worked on revamping the 10+ pages of Zluri.com using Gatsby and integrating them with GraphQL",
+      "Used Contentful CMS for better performance",
     ],
   },
   {
@@ -14,10 +16,10 @@ export const ExperienceContent = [
     link: "https://www.linkedin.com/company/logas-tech/",
     role: "Software Engineer Intern",
     brief: [
-      "Worked at Logiciel Analytics as a Full Stack Development intern",
-      "Developed new Rest-Api using Node.Js and MongoDB according to business needs, and integrated with frontend",
-      "Worked on developing modules for uploading PDF files.",
-      "Developed responsive dashboard and multiple dynamic pages using React.JS and Core UI for application.",
+      "Developed a responsive dashboard and multiple dynamic pages using React.js for the application and styling using scss",
+      "Implemented Redux for global state management",
+      "Developed a REST API using Node.js and MongoDB according to business needs and integrated it with the frontend",
+      "Worked on developing modules for uploading PDF files",
       "Containerization of whole application by using Docker",
     ],
   },

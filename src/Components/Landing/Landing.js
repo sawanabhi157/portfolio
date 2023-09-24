@@ -48,12 +48,12 @@ export const Landing = () => {
             style={{ color: "rgb(168, 164, 164)" }}
           >
             I am a pre-final year student at Indian Institute of Information
-            <br />    Technology, Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech)
+            <br /> Technology, Gwalior pursuing Integrated Post Graduate
+            (B.Tech+M.Tech)
             <br />
-            degree in Information Technology.  I'm Full Stack Developer and Open Source Enthusiat. 
-            <br />
-            I have 6 months of experince as a SDE Intern Logiciel Analytics.
-
+            degree in Information Technology. I'm Full Stack Developer and Open
+            Source Enthusiat.
+            <br />I have 1 year of experince as a SDE Intern at startups.
           </p>
         </Col>
         <Col xxl={5} xl={5} lg={3} xs={2} md={3} sm={3} />

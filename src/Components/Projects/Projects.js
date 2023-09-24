@@ -45,12 +45,12 @@ export const Projects = () => {
             bodyStyle={{ backgroundColor: "#141414" }}
             bordered={false}
             hoverable={true}
-            title="Yelp - Real Time Chatting App"
+            title="TykooMe - Real Time Chatting App"
             extra={
               <a
                 onMouseOver={handleHover}
                 style={{ color: "white" }}
-                href="https://github.com/sawanabhi157/Yelp-Chat"
+                href="https://github.com/sawanabhi157/TykooMe-Chat"
                 target="_blank"
                 rel="noreferrer"
               >
