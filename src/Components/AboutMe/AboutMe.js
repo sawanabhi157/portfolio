@@ -30,8 +30,7 @@ export const AboutMe = () => {
             data-aos-once
             className="about-first"
           >
-            I am a Pre-final Year Student from the Indian Institute of Information
-            Technology, Gwalior, pursuing my (B.Tech+M.Tech) in Information Technology
+    I have post graduated from the Indian Institute of Information Technology, Gwalior, with a (B.Tech + M.Tech) in Information Technology.
           </p>
           <p
             data-aos="fade-up"
@@ -42,7 +41,7 @@ export const AboutMe = () => {
             I am a Full Stack Developer, I really enjoy building new things and
             overcoming new challenges. I'm always eager to learn new concepts
             and apply them in my projects Currently I am actively looking for
-            new internship opportunities
+            new full time SDE opportunities
           </p>
           <p
             data-aos="fade-up"
