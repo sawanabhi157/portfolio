@@ -47,13 +47,8 @@ export const Landing = () => {
             className="long-desc"
             style={{ color: "rgb(168, 164, 164)" }}
           >
-            I am a pre-final year student at Indian Institute of Information
-            <br /> Technology, Gwalior pursuing Integrated Post Graduate
-            (B.Tech+M.Tech)
-            <br />
-            degree in Information Technology. I'm Full Stack Developer and Open
-            Source Enthusiat.
-            <br />I have 1 year of experince as a SDE Intern at startups.
+I have post graduated from the Indian Institute of Information  <br /> Technology, Gwalior, with a (B.Tech + M.Tech) in Information Technology.  I'm Full Stack Developer and Open Source Enthusiat.
+            <br />I have 1.5 year of experince as a SDE Intern at MNC's and startups.
           </p>
         </Col>
         <Col xxl={5} xl={5} lg={3} xs={2} md={3} sm={3} />
