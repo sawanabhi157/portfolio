@@ -1,7 +1,7 @@
 export const ExperienceContent = [
   {
     company: "Altair",
-    link: "https://www.linkedin.com/company/altair/",
+    link: "https://www.linkedin.com/company/altair-engineering/",
     role: "Software Engineer Intern",
     timeframe: "Jan 2024 - May 2024",
     location: "Bengaluru, On-site",
