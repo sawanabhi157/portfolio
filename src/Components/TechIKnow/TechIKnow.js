@@ -64,7 +64,7 @@ export const TechIKnow = () => {
               <b>Frameworks/Libraries</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="frameworks">
-              ExpressJS, ReactJS, NodeJS, Redux, Bootstrap
+              ExpressJS, ReactJS, NodeJS, Redux, Bootstrap, Echo GoLang, Spring Boot
             </p>
           </div>
           <div
@@ -121,7 +121,7 @@ export const TechIKnow = () => {
               <b>Languages</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="languages">
-              GoLang, JavaScript, TypeScript, C++, Python
+              GoLang, JavaScript, TypeScript, C++, Python, Java
             </p>
           </div>
         </Col>
