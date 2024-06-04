@@ -26,15 +26,12 @@ export const ExperienceContent = [
     ],
   },
   {
-    company: "Logiciel Analytics",
-    link: "https://www.linkedin.com/company/logas-tech/",
+    company: "Websoot",
+    link: "https://webscoot.io/",
     role: "Software Engineer Intern",
     brief: [
-      "Developed a responsive dashboard and multiple dynamic pages using React.js for the application and styling using SCSS.",
-      "Implemented Redux for global state management.",
-      "Developed a REST API using Node.js and MongoDB according to business needs and integrated it with the frontend.",
-      "Worked on developing modules for uploading PDF files.",
-      "Containerized the whole application using Docker."
+      "Developed aninvoice tracking applicationfrom scratch with a responsive dashboard and20+ multiple dynamic pages usingReact.js and Reduxfor state management, along with aREST API using Node.js and MongoDB"
+      "Led theend-to-end developmentof a React application forcloud server management, starting from scratchand integrating it withbackend APIsbased on business needs"
     ],
   },
 ];
