@@ -30,7 +30,7 @@ export const ExperienceContent = [
     link: "https://webscoot.io/",
     role: "Software Engineer Intern",
     brief: [
-      "Developed aninvoice tracking applicationfrom scratch with a responsive dashboard and20+ multiple dynamic pages usingReact.js and Reduxfor state management, along with aREST API using Node.js and MongoDB"
+      "Developed aninvoice tracking applicationfrom scratch with a responsive dashboard and20+ multiple dynamic pages usingReact.js and Reduxfor state management, along with aREST API using Node.js and MongoDB",
       "Led theend-to-end developmentof a React application forcloud server management, starting from scratchand integrating it withbackend APIsbased on business needs"
     ],
   },
