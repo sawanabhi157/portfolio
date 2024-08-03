@@ -3,16 +3,16 @@ export const ExperienceContent = [
     company: "Altair",
     link: "https://www.linkedin.com/company/altair-engineering/",
     role: "Software Engineer Intern",
-    timeframe: "Jan 2024 - May 2024",
+    timeframe: "Jan 2024 - Persent 2024",
     location: "Bengaluru, On-site",
-    brief: [
-      "Created a recursive call feature in Go for a license management application, enabling efficient retrieval of all child processes to monitor software usage and manage licenses with 99.06% accuracy.",
-      "Designed a Redis streams notification system for real-time license alerts via Microsoft Teams and email using Avro schema, improving management by 30% by enabling timely updates and fixes.",
-      "Built a WebSocket server for instant frontend updates and 24-hour notification storage, significantly enhancing accessibility and user interaction by 25%.",
-      "Integrated AES encryption in Go to secure notification engine credentials within a database, bolstering system security and reducing potential data breaches by 40%, ensuring compliance with industry security standards.",
-      "Migrated an audit log engine from Java Spring Boot to Go, boosting performance and scalability, improving processing times by 40% while maintaining reliability.",
-      "Implemented a cron job in Go with a UI for daily, weekly, and monthly report generation, including an instant report option, reducing time and increasing reporting efficiency by 49%."
-    ],
+brief: [
+  "Designed a Redis streams notification system for real-time license expire alerts via Microsoft Teams and email, reducing production errors by 30% through proactive issue detection and timely resolution.",
+  "Built a WebSocket server for real-time updates and 24-hour notification storage, significantly enhancing accessibility and user interaction by 25%.",
+  "Engineered a Golang-based cron job with a user interface for daily, weekly, and monthly report generation, including an instant report option. This implementation replaced a command-line Java system, enhancing reporting efficiency by 19% and directly impacting end users.",
+  "Migrated an audit log engine from Java Spring Boot to Go, improving processing times by 13% for end users while maintaining reliability.",
+  "Created a recursive call feature in Go for a license management application, enabling efficient retrieval of all child processes to monitor software usage and improve license management accuracy from 97% to 99.06%.",
+  "Implemented a comprehensive, end-to-end cost analysis module for license servers and their corresponding application licenses over time, enhancing financial oversight and cost tracking."
+],
   },
   {
     company: "Zluri",
